@@ -1,0 +1,903 @@
+{
+    "timeline" : {
+        "name" : "myhomework",
+        "description" : "课程作业"
+    },
+
+    "groups" : [
+          ],
+
+    "events" : [
+              {
+          "name" : "人类已经开始使用青铜器",
+          "description" : "伊朗南部、美索不达米亚一带在公元前4000～前3000年已使用青铜器，欧洲在公元前4000～前3000年、印度和埃及在公元前3000～前2000年，也有了青铜器。",
+          "tagsCsv" : "",
+          "time" : "-4000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "造船技术显著发展",
+          "description" : "带有横帆的帆船出现在埃及，表面埃及人掌握了逆风航行的技术。由桨手驱动的长船被用于爱琴海。",
+          "tagsCsv" : "",
+          "time" : "-3000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "埃及象形数字开始形成",
+          "description" : "这是一种以十进制为基础的计数法",
+          "tagsCsv" : "",
+          "time" : "-3000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "两河流域地区开始出现烧制砖块",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-3000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "埃及人创造几何学",
+          "description" : "早期的几何学是关于长度、角度、面积和体积的经验原理，被用于满足在测绘、建筑、天文和各种工艺制作的实际需要",
+          "tagsCsv" : "",
+          "time" : "-3000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "乌鲁克出现楔形文字板",
+          "description" : "在文字书写史上是先驱",
+          "tagsCsv" : "",
+          "time" : "-3000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "古埃及人制成蜡烛",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2900 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "算盘开始出现",
+          "description" : "最早出现于两河流域，中国的算盘先进且自成体系。",
+          "tagsCsv" : "",
+          "time" : "-2700 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "古埃及建立旬星体系和历法",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2700 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "现代巴基斯坦的印度河谷出现了城市文明",
+          "description" : "摩亨佐\u2022达罗的巨大纪念物和郊区住宅占地2.6平方公里。哈拉帕城的周长达到了4公里。封印的题写，度量衡的标准化，显示了复杂的管理技术。",
+          "tagsCsv" : "",
+          "time" : "-2600 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "胡夫金字塔建成",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2560 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "黄河流域开始实行灌溉农业",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2500 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "使用失蜡法铸造物件",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2500 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "埃及使用靛蓝染色",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2400 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "中国人最早记录日食现象",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2137 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "古巴比伦的医学已具雏形",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "中国最早开采使用朱砂",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "英格兰南部建造巨石阵",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "印度出现0的概念，表示无",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "两河流域的人发明了马车",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "殷商时代已有用于铸造青铜器的耐火器皿",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-2000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "中国开始使用青铜镜",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-1960 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "墨西哥人制作可可饮料",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-1960 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "中国最早记录地震",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-1831 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "埃及人认识勾股定理",
+          "description" : "埃及的柏林纸草书记录了埃及人对勾股定理的认识。",
+          "tagsCsv" : "",
+          "time" : "-1800 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "汉谟拉比兴修水利，开凿运河",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-1800 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "锡铅分离冶炼技术出现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-1700 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "中国用天然磨料磨制铜器",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-1600 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "甲骨文在商朝使用",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-1600 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "水泥被发明",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-1000 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "自然哲学开始出现",
+          "description" : "泰勒斯等哲学家开始逐渐思考\u201C世界的本原\u201D问题。泰勒斯把世界的本原归结为水。诞生米利都学派。",
+          "tagsCsv" : "",
+          "time" : "-625 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "毕达哥拉斯学派诞生",
+          "description" : "毕达哥拉斯学派提出万物的本原是数，他们认为万物的本原应当是有定形的东西，而万物共同的有定形的东西就是数。得出勾股定理\u201C毕达哥拉斯定理\u201D。",
+          "tagsCsv" : "",
+          "time" : "-531 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "地心说逐渐形成",
+          "description" : "毕达哥拉斯认为球形的地球就是宇宙的中心，外面被一圈球形的天空包裹着。",
+          "tagsCsv" : "",
+          "time" : "-520 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "赫拉克利特相关学派诞生",
+          "description" : "赫拉克利特被公认为辩证法的奠基人之一。赫拉克利特坚持用某种无定形之物来说明世界的产生和变化。赫拉克利特进一步认为逻格斯不仅是火与万物相互转化所遵循的基本规律，也是思维和言说的法则。",
+          "tagsCsv" : "",
+          "time" : "-504 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "同心球理论逐渐形成",
+          "description" : "欧多克斯提出了同心球理论，亚里士多德将欧多克斯的同心球理论继续完善和改进。",
+          "tagsCsv" : "",
+          "time" : "-320 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "阿基米德在《论平面图形的平衡》一书中最早提出了杠杆原理",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "-300 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "蔡伦造纸术出现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "105 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "盖伦著作大量解刨学和生理学书籍，全面阐述了人体的生理机制",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "160 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "托勒玫编著《天文学大成》，古代天文学基本达到巅峰",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "200 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "纸张被发明",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "200 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "亚里士多德学说开始形成",
+          "description" : "亚里士多德他讨论了逻辑学、认识论、物理学、生物学、伦理学、政治学和美学。",
+          "tagsCsv" : "",
+          "time" : "384 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "恩培多克勒提出四根说",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "495 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "隋唐出现了最早的雕版印刷术",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "600 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "火药制造开始兴起",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "850 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "指南针被发明",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1100 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "世界上最早出现的纸币，即中国北宋时期四川成都的\u201C交子\u201D",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1100 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "光学镜片被发明",
+          "description" : "眼镜的发明大大提高了人类的集体智慧并最终导致显微镜和望远镜的出现。",
+          "tagsCsv" : "",
+          "time" : "1300 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "皮特·海因莱因制造了世界上第一台便携式计时器，同时发明了钟表发条。机械钟表让人们可以对时间进行测量",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1500 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "安德烈·维萨里编著《人体构造》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1543 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "伽利略在《论运动》提出加速度的概念，力学史的丰碑",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1590 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "伽利略提出自由落体定律",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1603 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "开普勒第一第二行星定律提出",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1609 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "培根编著《新工具》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1620 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "威廉·哈维提出《血液循环论》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1628 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "伽利略编著《关于托勒密和哥白尼两大世界体系的对话》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1632 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "笛卡尔提出《方法论》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1637 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "托里拆利造出水银气压计",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1643 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "笛卡尔提出《哲学原理》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1644 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "罗伯特·胡克发明《显微术》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1665 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "牛顿发明反射式望远镜",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1668 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "牛顿提出光的微粒说",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1676 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "牛顿和莱布尼兹分别独立发明微积分",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1686 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "列文·胡克著作《自然的奥秘》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1695 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "牛顿著作《光学》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1704 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "哈雷发表《彗星天文学论说》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1705 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "伯努利原理问世",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1738 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "植物光合作用被发现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1779 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "拉瓦锡阐述质量守恒守恒定律",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1782 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "詹姆斯·赫顿提出地球学说",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1785 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "英国医生爱德华·詹纳发明抵抗天花的牛痘疫苗，挽救了数亿人的生命",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1796 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "双缝干涉实验",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1801 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "道尔顿提出《原子论》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1803 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "阿伏伽德罗定律",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1811 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "《概率分析理论》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1812 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "卡诺循环问世，热力学问世",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1824 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "法拉第发现电磁感应",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1831 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "磁光效应被发现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1845 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "能量守恒定律被发现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1847 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "洛希提出洛希极限",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1849 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "热力学第二定律被提出",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1850 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "乔治·布尔提出与或非",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1854 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "巴氏杀菌法问世",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1857 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "达尔文发表《物种起源》",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1859 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "法国微生物学家巴斯德、化学家、近代微生物学的奠基人路易斯·巴斯德发明巴氏灭菌法",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1863 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "克劳修斯提出\u201C熵\u201D的概念",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1865 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "门捷列夫发布元素周期表",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1869 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "麦克斯韦方程组问世，《电磁学通论》问世，电光磁大一统理论",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1873 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "《集合论》问世",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1874 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "美国发明家、企业家亚历山大·格雷厄姆·贝尔发明了电话，从此，电话成为人们生活的必需品",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1876 3 10 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "霍尔效应被发现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1879 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "卡尔·本茨为机动车申请了专利，1886视为汽车诞生年",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1886 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "赫兹发现电磁波",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1887 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "洛伦兹发表电子理论",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1892 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "伦琴发现X射线",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1895 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "阿司匹林被合成",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1895 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "量子力学逐渐兴起",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1900 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "美国的莱特兄弟制造出了第一架依靠自身动力进行载人飞行的飞机飞行者1号",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1903 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "爱因斯坦提出光电效应",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1905 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "爱因斯坦提出狭义相对论",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1905 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "E=mc2",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1905 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "化学武器之父、德国化学家弗里茨·哈伯发明了人工合成氨的方法",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1909 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "摩尔根提出基因位于染色体上",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1912 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "卢瑟福发现质子",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1914 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "爱因斯坦提出广义相对论",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1915 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "卫生系统逐渐出现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1920 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "波粒二象性被发现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1924 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "英国工程师约翰·洛吉·贝尔德发明电视",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1925 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "泡利不相容原理",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1925 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "薛定谔的猫",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1926 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "美国发明家罗伯特·戈达德在马萨诸塞州沃德农场成功发射了世界上第一枚液体火箭",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1926 3 16 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "不确定原理",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1927 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "亚历山大·弗莱明，霍华德·弗洛里，钱恩发现、提纯青霉素",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1928 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "反物质被发现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1928 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "中子被发现",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1932 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "费米发现原子裂变链式反应",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1934 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "恩利克·费米等人在美国芝加哥建成了世界上第一座铀石墨反应堆，实现了人类首次驾驭原子能的壮举",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1942 12 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "原子弹第一次被使用",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1945 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "世界上第一台通用计算机ENIAC在美国宾夕法尼亚大学诞生",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1946 2 14 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "加拿大发明家雷金纳德·费森登首度发射出声音，无线电广播就此开",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1960 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "美国生物学家、\u201C避孕药之父\u201D格里高利·平卡斯在波多黎各和海地对避孕药进行了首次临床试验",
+          "description" : "",
+          "tagsCsv" : "",
+          "time" : "1960 4 1 0 0",
+          "group" : ""
+        }    ],
+
+    "periods" : [
+              {
+          "name" : "青铜时代",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "-4000 1 1 0 0",
+          "timeTo" : "0 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "第一个阶级社会",
+          "description" : "　从大约公元前3000年开始，在地球上的某些地区，特别是在美索不达米亚、埃及、巴基斯坦和中国土地肥沃的河谷中，最早的完全成型的阶级社会出现了。教士、战争统帅和文职官员们运用他们的地位，实现对剩余产品的垄断性控制，将他们的权威施加于其他社会成员，并且开始剥削他人的劳动以实现自己的目的。\n　　在这一被人类学家视为青铜时代的时期，金属被用来制造武器、祭祖用品和饰物。但日常劳作所使用的主要工具仍然由石器、木器和骨器组成。正因为这样，社会生产力依旧低下，剩余产品依旧稀少，文明的传播受到了限制，同时，虽然一些帝国兴起又衰落，大部分人类依旧生活在它们不能达到的地方。",
+          "tagsCsv" : "",
+          "timeFrom" : "-3000 1 1 0 0",
+          "timeTo" : "-1000 1 1",
+          "group" : ""
+        },
+              {
+          "name" : "铁器时代",
+          "description" : "最早（约公元前1300年）始于古代近东（安纳托利亚、塞浦路斯、埃及、波斯），大概100年后开始于欧洲和印度，然后是亚洲其他地方：中国（公元前600年）、韩国（公元前400年）和日本（公元前100年）。铁器时代一直持续到公历纪元，于公元400年在欧洲结束，公元500年在日本结束。",
+          "tagsCsv" : "",
+          "timeFrom" : "-1300 1 1 0 0",
+          "timeTo" : "500 1 1 0 0",
+          "group" : ""
+        },
+              {
+          "name" : "火器时代",
+          "description" : "",
+          "tagsCsv" : "",
+          "timeFrom" : "900 1 1 0 0",
+          "timeTo" : "1500 1 1 0 0",
+          "group" : ""
+        }    ],
+
+    "progresses" : [
+          ],
+
+    "statistics" : [
+          ],
+
+    "statisticsYandexMetrika" : [
+          ],
+
+    "statisticsGoogleAnalytics" : [
+          ],
+
+    "reportingAPIs" : [
+          ],
+
+    "tags" : [
+          ]
+}
